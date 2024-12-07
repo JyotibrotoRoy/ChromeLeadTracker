@@ -51,6 +51,7 @@ Contributions are welcome! If you have ideas or improvements, feel free to fork 
 Happy tracking with Lead Tracker! 🎯
 
 🚀 About Me
+
 Hello! I’m Jyotibroto Roy Laskar, a Data Science and Machine Learning Enthusiast with a passion for Data Science and web development.
 
 Currently, I am focusing on developing interactive websites. This project, Chrome Extension, is a reflection of my skills and knowledge in Javascript and represents my commitment to applying my knowledge to practical problems.
